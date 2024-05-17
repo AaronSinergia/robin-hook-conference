@@ -9,3 +9,5 @@ Los campos y requerimientos serán los siguientes:
 2️⃣ Correo electrónico: requerido y patrón regex de email
 
 3️⃣ Contraseña: requerido y patrón regex de contraseña
+
+componetizar a tope y el fromulario crear un label y un input y pasar parametros a tope luego
